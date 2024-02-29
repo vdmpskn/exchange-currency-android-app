@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CURRENCY EXCHANGE</string>
+    <string name="my_balances">MY BALANCES</string>
+    <string name="currency_exchange">CURRENCY EXCHANGE</string>
+    <string name="sell">Sell</string>
+    <string name="min_1">min: 1</string>
+    <string name="receive">Receive</string>
+    <string name="submit">SUBMIT</string>
+    <string name="arrow_down">arrow_down</string>
+    <string name="red_arrow">red_arrow</string>
+</resources>
